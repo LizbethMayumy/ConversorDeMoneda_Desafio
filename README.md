@@ -6,10 +6,6 @@
 
 - [Requisitos](#requisitos-del-sistema)
 
-- [Estructura del Código](#estructura-del-código)
-
-- [Forma de Uso](#forma-de-uso)
-
 - [Autor](#autor)
 
 ## Descripción
